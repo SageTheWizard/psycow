@@ -1,4 +1,6 @@
 # psycow
+![Alt text](https://github.com/SageTheWizard/psycow/blob/master/psycow.png "SCREENSHOTS!")
+
 a colorful and psychic take on cowsay<br />
 Dependencies:<br />
   lolcat <br />
